@@ -1,9 +1,8 @@
-
 {
   "name": "rendimientos-suite3",
   "private": true,
   "type": "module",
   "dependencies": {
-    "@neondatabase/serverless": "latest"
+    "@netlify/neon": "0.7.0"
   }
 }
